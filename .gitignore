@@ -3,3 +3,6 @@ libft.a
 
 # Executable
 a.out
+
+# Objs directory
+objs
